@@ -20,7 +20,6 @@ export default function InfoBox({info}){
     return(
         <div className="InfoBox">
             <div className="cardContainer">
-              <br></br>
             <Card sx={{ maxWidth: 345 }}>
       <CardMedia
         sx={{ height: 140 }}
